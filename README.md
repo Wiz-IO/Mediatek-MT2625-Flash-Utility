@@ -8,7 +8,7 @@
 
 Usage: 
 ```
-python upload.py bc66 path/application.bin COM_PORT
+python upload.py bc66 application.bin COM_PORT
 ```
 
 
