@@ -6,13 +6,17 @@
 
 **OpenCPU Application Upload**
 
-Usage: python upload.py bc66 path/application.bin COM_PORT
-
+Usage: 
+```
+python upload.py bc66 path/application.bin COM_PORT
+```
 
 **NVDM Backup**
 
-Usage: python backup.py backup.bin COM_PORT
-
+Usage: 
+```
+python backup.py backup.bin COM_PORT
+```
 
 **Firmware upload**
 TODO
