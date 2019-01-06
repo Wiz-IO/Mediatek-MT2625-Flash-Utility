@@ -2,7 +2,7 @@
 
 * Version: 1.00
 * Platforms: Windows, Linux, Mac ...
-* Tested with Quectel BC66
+* Tested with Quectel BC66 ( chipset: 0x8300v0 )
 
 ![Project](https://raw.githubusercontent.com/Wiz-IO/Mediatek-MT2625-Flash-Utility/master/screenshot.jpg) 
 
