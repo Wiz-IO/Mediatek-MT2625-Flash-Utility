@@ -4,15 +4,13 @@
 * Platforms: Windows, Linux, Mac ...
 * Tested with Quectel BC66
 
-**Quectel OpenCPU Application Upload**
-
+**Quectel OpenCPU Application Upload** 
 Usage: 
 ```
 python upload.py bc66 application.bin COM_PORT
 ```
 
-**NVDM Backup**
-
+**NVDM Backup** 
 Usage: 
 ```
 python backup.py backup.bin COM_PORT
@@ -20,6 +18,7 @@ python backup.py backup.bin COM_PORT
 
 **Firmware upload**: TODO
 ```
+
 ```
 
 >If you want to help / support:   
