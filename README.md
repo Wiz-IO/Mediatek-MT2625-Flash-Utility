@@ -4,6 +4,8 @@
 * Platforms: Windows, Linux, Mac ...
 * Tested with Quectel BC66
 
+![Project](https://raw.githubusercontent.com/Wiz-IO/Mediatek-MT2625-Flash-Utility/master/screenshot.jpg) 
+
 **Quectel OpenCPU Application Upload** 
 Usage: 
 ```
