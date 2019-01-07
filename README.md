@@ -1,8 +1,10 @@
 # Mediatek MT2625 Python Flash Utility
 
 * Version: 1.00
+* Dependency: Serial https://github.com/pyserial/pyserial/tree/master/serial
 * Platforms: Windows, Linux, Mac ...
-* Tested with Quectel BC66 ( chipset: 0x8300v0 )
+* Tested with Python 2.7 ... ( for 3.x soon )
+* Tested in VSCode-PlatformIO with Quectel BC66 ( chipset: 0x8300v0 )
 
 ![Project](https://raw.githubusercontent.com/Wiz-IO/Mediatek-MT2625-Flash-Utility/master/screenshot.jpg) 
 
